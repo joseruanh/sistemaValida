@@ -9,8 +9,8 @@ header
 }
 body
 {
-    background-image: url(fundo.jpg);
-    background-size: cover;
+    height: 100vh;
+    background-color: #000d87;
 }
 section#s1
 {
